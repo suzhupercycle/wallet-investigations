@@ -1,0 +1,63 @@
+
+Feb 2014 - 15CVfJUC1LKn1GKZx6RM5UMbFfnTd8vTT4 starts receiving large chunks of BTC. Continues intermittently until June 2016.
+           At the start of Jan 2017, this was ~21st largest bitcoin wallet by balance (https://bitcointalk.org/index.php?topic=1745235.msg17586665#msg17586665)
+           Potentially an online gambling company called K8 Kaifa Entertainment - https://bitcointalk.org/index.php?topic=602344 
+
+9/25/2017 - Passthrough from 15CVfJUC1LKn1GKZx6RM5UMbFfnTd8vTT4 to 1CiAzyf5JFxDUm28oBNxt3TMsTi1EW7CLZ
+            44k BTC - looks to combine a bunch of large UTXOs into one extremely large UTXO
+
+First major peel chain
+Becomes active with FTX sends the same time the main peel chain goes active as well - same entity!
+
+5/14/2018 - 10,000 BTC peel chain to 1Kx4QFupZ9vKFmUDhsptfSBPEKXJKV5MuN
+            34,000 BTC change sent to 1GTYSSRmmWYffhWsrbWUShVSJMemoS5BXX
+
+5/18/2018 - Passthrough from 1GTYSSRmmWYffhWsrbWUShVSJMemoS5BXX to 1MAhRt279uYmVC1dUxKR6dWwEULBJT34Nh (in two txs)
+            tx: a3f1d4acc6d204eb1655b3c40bbd087a497c1e921ea62e629c25f035c402ac0d
+
+10/26/2018 - Passthrough from 1MAhRt279uYmVC1dUxKR6dWwEULBJT34Nh to 1Fc4QQu6nEc4snAe4HAb4Kryd8koH89pYk
+
+10/26/2018 - 3000 BTC to 3MaRzHA5m6LGCvuMYxRP6oqrDgW5i53Lg7 (likely goes to Huobi) tx: 8fe16d817e60b2448b06b456e9c6c3ed7ef1b3d4e64ac07f7cae77d7df3dc420
+             31000 BTC change sent to 13JQwoSLLR3ffXwswe2HCTK9oq4i8MWK3q
+
+2021
+Big split into two peels
+
+1/27 - 8000 BTC new major peel chain to 14BLX8bw7ihzW3tFPS7Wdwg8zYd7mUPjsP tx: caeaec80c3bc37c540adb6ed9db13637a5956112e4bca219c7d71cece053a557
+       23000 BTC change to 13urGZAf24LdiAdffGgVSFNXkiqfEyBuEw
+
+1/29 - 10 BTC to self-peel from: 13urGZAf24LdiAdffGgVSFNXkiqfEyBuEw tx: 073672ffe335768699421da86fc7953b60e5f6ae4f2df1c3c454423adec88bba
+       23000 BTC change sent to 1HP4M9g82YYeybgR3TBHMgDaWnKRbKvKbp
+
+Now the dumping starts
+
+5/24 - 1 BTC to FTX from: 1HP4M9g82YYeybgR3TBHMgDaWnKRbKvKbp tx: dfe4f0b5b9abc849b329637601a22b99309632e8aab39a67a08375f0b3ee07d0
+       23000 BTC change sent to 1ArdxH4j1u4g9kqNjxsN33pKYUtBjeiaLM
+
+5/24 - 500 BTC to (Huobi?) from: 1ArdxH4j1u4g9kqNjxsN33pKYUtBjeiaLM tx: 00042d5823406c76dd6171433e2421d113a95da9b0ff8804f4388ac8694de0ce
+       22500 BTC change sent to 14GVwSCJYzFxBNu1X9wBqvHLjsSeytRRWU
+	   (this tx seems weird to me, we need to double check the destination on this one)
+
+5/24 - 499 BTC to FTX from: 14GVwSCJYzFxBNu1X9wBqvHLjsSeytRRWU tx 1fba084cc4a43061b3f68dfa1ba4ad24f8b1c78268d80207e60dd857dba68ab3
+       22000 BTC change sent to 16wm919rwCkebWYunNXBC6Bop23ginqcpM
+
+5/25 - 1000 BTC to FTX from: 16wm919rwCkebWYunNXBC6Bop23ginqcpM tx: 80d1ebe74381c8bb0bdd14b68e24333c7aaa726465a9051b539f4cdd9974aec4
+       21000 BTC change sent to 1FzYMeLEJADFpqgekQ6kjf9HbtJjVKYu8o
+
+5/26 - 1500 BTC to FTX from: 1FzYMeLEJADFpqgekQ6kjf9HbtJjVKYu8o tx: a8c50c1ee6febc8238b899f1cbd7de30c428e1ab19b95466fbfe28cc36c6df1e
+       19500 BTC change sent to 13AtC9b8UYsUsHYYFGYS8izV8LiFyvPLom
+
+5/27 - 2000 BTC to FTX from: 13AtC9b8UYsUsHYYFGYS8izV8LiFyvPLom tx: 141119f390a3d9ea6cab8c2f82a4ac0e11d10be321ec0f665b3e7554bac72542
+       17500 BTC change sent to 177a6FZJbJR8HnhrtA55FzQk673x1CARbB
+
+5/28 - 2500 BTC to FTX from: 177a6FZJbJR8HnhrtA55FzQk673x1CARbB tx: 95ad643b7848022facd23c9b42450d54076b581a9438be6d07479efe753b6d88
+       15000 BTC change sent to 1BLkKSqpmn5mJtR8j1yFXA2DiiBpLRrL53
+	   
+5/28 - 3000 BTC to FTX from: 1BLkKSqpmn5mJtR8j1yFXA2DiiBpLRrL53 tx: e9ed6c8f1d7df50549636873e2fec10708651f052f5350c2ff32fbf7bda669fc
+       12000 BTC change sent to 1HmPPwdV8FA1nWZxZMGnkQoAqY4pbfpx1t
+	   
+5/28 - 3000 BTC to FTX from: 1HmPPwdV8FA1nWZxZMGnkQoAqY4pbfpx1t AND 1BVAEYrtwCsPGzAhKQFmMaEsAKtApmjBWJ
+       11500 BTC change sent to 17bHD5hdvutVHsm74eGoan92xYVMHMvVUm
+	   
+
+Secondary Peel Chain Created 1/27/2021 - 14BLX8bw7ihzW3tFPS7Wdwg8zYd7mUPjsP
